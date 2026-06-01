@@ -86,7 +86,7 @@ A production-grade real-time chat application with a strong focus on **UI perfor
 | 🔐 Redis OTP caching | 5-min TTL auto-invalidation — sub-millisecond lookup vs MongoDB queries |
 | 🖼️ Image upload pipeline | React Hook Form + Yup + Cloudinary + Multer — with instant UI feedback |
 
-[![SafeChat GitHub](https://img.shields.io/badge/GitHub-SafeChat-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME/safechat)
+[![SafeChat GitHub](https://img.shields.io/badge/GitHub-SafeChat-181717?style=for-the-badge&logo=github)](https://github.com/Gbhavya123/SafeChat--Real-Time-Context-Aware-Chat-Moderation-Platform)
 
 ---
 
