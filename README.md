@@ -4,14 +4,14 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Building+production-grade+React+UIs+%F0%9F%9A%80;Obsessed+with+clean+component+architecture+%E2%9A%A1;Performance+audits+%7C+Lighthouse+%7C+Web+Vitals;1634+LeetCode+Rating+%7C+300%2B+Problems+Solved)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Building+production-grade+React+UIs+%F0%9F%9A%80;Obsessed+with+clean+component+architecture+%E2%9A%A1;Performance+audits+%7C+Lighthouse+%7C+Web+Vitals;1634+LeetCode+Rating+%7C+300%2B+Problems+Solved)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavya-gupta-YOUR-ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavya-gupta-88664128a/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavya.gupta.212003@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_USERNAME)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/YOUR_USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/bhavyagupta18561/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/bhavyagupta185)
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ## 👋 Hey, I'm Bhavya
 
-> Pre-final year CS undergrad at **MITS Gwalior** (CGPA: 8.50) — building things that feel fast, look clean, and actually ship.
+> Final year CS undergrad at **MITS Gwalior** (CGPA: 8.50) — building things that feel fast, look clean, and actually ship.
 
 I care about **UI performance** (LCP, CLS, TBT — not just vibes), **scalable component design**, and writing tests that catch real bugs. Currently sharpening my edge in **TypeScript + Zustand + TanStack Query** while grinding DSA in parallel.
 
