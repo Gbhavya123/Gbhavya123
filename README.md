@@ -106,7 +106,7 @@ A civic-tech platform where citizens report road issues and admins act on them �
 | 🖼️ Image processing | Sharp + Cloudinary pipeline for road issue photo uploads |
 
 [![RoadTracker GitHub](https://img.shields.io/badge/GitHub-RoadTracker-181717?style=for-the-badge&logo=github)](https://github.com/Gbhavya123/RoadTracker)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-RoadTracker-22C55E?style=for-the-badge&logo=vercel)](road-tracker-one.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-RoadTracker-22C55E?style=for-the-badge&logo=vercel)](https://road-tracker-one.vercel.app/)
 
 ---
 
