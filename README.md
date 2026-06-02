@@ -134,12 +134,12 @@ A civic-tech platform where citizens report road issues and admins act on them â
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Gbhavya123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbhavya123&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gbhavya123&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
