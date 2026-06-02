@@ -148,7 +148,7 @@ A civic-tech platform where citizens report road issues and admins act on them �
 ## 🎓 Education
 
 **B.Tech — Computer Science & Engineering**
-Madhav Institute of Technology and Science, Gwalior · *2022 – 2026* · CGPA: **8.50 / 10**
+Madhav Institute of Technology and Science, Gwalior · *2023 – 2027* · CGPA: **8.50 / 10**
 
 ---
 
